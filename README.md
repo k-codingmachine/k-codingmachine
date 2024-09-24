@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=영수Coding%20Github" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=승훈Coding%20Github" />
 </p>
 <br>
 
